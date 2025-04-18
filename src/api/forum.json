@@ -1,0 +1,37 @@
+{
+    "aclInfo": {
+      "id": 1,
+      "title": "示例论坛标题",
+      "cateName": "问答",
+      "stuHead": "path/to/avatar.jpg",
+      "stuName": "用户1",
+      "createTime": "2023-10-27",
+      "content": "这是论坛内容的示例。",
+      "tagList": [
+        { "id": 1, "name": "标签1" },
+        { "id": 2, "name": "标签2" }
+      ],
+      "viewCount": 123
+    },
+    "comments": [
+      {
+        "id": 1,
+        "authorHead": "path/to/commenter1.jpg",
+        "authorName": "评论者1",
+        "createTime": "2023-10-28",
+        "content": "这是评论内容的示例。",
+        "authorId": 1,
+        "children": [
+          {
+            "id": 2,
+            "authorHead": "path/to/commenter2.jpg",
+            "authorName": "评论者2",
+            "toAuthorName": "评论者1",
+            "createTime": "2023-10-28",
+            "content": "这是回复内容的示例。",
+            "authorId": 2
+          }
+        ]
+      }
+    ]
+  }

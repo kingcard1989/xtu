@@ -1,4 +1,4 @@
-<template>
+1<template>
   <div class="teacher-management">
     <el-row>
       <el-col :span="24">

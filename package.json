@@ -61,5 +61,10 @@
   ],
   "presets": [
     "@babel/preset-env"
-  ]
+  ],
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

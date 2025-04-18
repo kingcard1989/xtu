@@ -64,7 +64,7 @@
   
   <script>
   export default {
-    name: 'TeacherManagement',
+    name: 'StudentManagement',  // Changed from TeacherManagement
     data() {
       return {
         teachers: [

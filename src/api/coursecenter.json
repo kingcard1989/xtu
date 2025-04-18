@@ -1,0 +1,53 @@
+{
+    "courseList": [
+      {
+        "id": 1,
+       "courseId":1,
+        "title": "格密码",
+        "description": "dsvsodvnosdavnoaidsvnoahuohnunvoqrewfadvadvavcaz去 134阿3她4512341了他他1341341415聊天2她潜伏期②24来述",
+        "cover": "https://tse3-mm.cn.bing.net/th/id/OIP-C.v97rSbjcdbrgDhxTGB4o0QHaE8?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "lessonNum": 10,
+        "credit": 3,
+        "limitCount": 40
+      },
+      {
+        "id": 2,
+        "courseId":2,
+        "title": "课程二",
+        "description": "这是课程二的描述",
+        "cover": "https://tse4-mm.cn.bing.net/th/id/OIP-C.b7-qAr80XXqtysREcc4hcQHaLG?rs=1&pid=ImgDetMain",
+        "lessonNum": 8,
+        "credit": 2,
+        "limitCount": 25
+      }
+    ],
+    "hotList": ["基础", "艺术", "设计"],
+    "orderList": [
+      {
+        "id": 0,
+        "txt": "全部"
+      },
+      {
+        "id": 1,
+        "txt": "最新"
+      },
+      {
+        "id": 2,
+        "txt": "最热"
+      }
+    ],
+    "subjectList": [
+      {
+        "id": 1,
+        "title": "计算机科学"
+      },
+      {
+        "id": 2,
+        "title": "艺术与设计"
+      },
+      {
+        "id": 3,
+        "title": "商业管理"
+      }
+    ]
+  }
