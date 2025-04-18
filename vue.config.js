@@ -90,7 +90,7 @@ module.exports = {
   css: {
     loaderOptions: {
       scss: {
-        prependData: `@import "@/assets/css/common.scss";`
+        additionalData: `@import "@/assets/css/common.scss";`
       }
     }
   }

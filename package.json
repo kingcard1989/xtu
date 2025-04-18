@@ -48,8 +48,8 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "neo4j-driver": "^5.28.0",
-    "sass": "^1.26.8",
-    "sass-loader": "^8.0.2",
+    "sass": "^1.32.13",
+    "sass-loader": "^10.1.1",
     "style-resources-loader": "^1.5.0",
     "vis-data": "^7.1.9",
     "vue-template-compiler": "^2.6.14"
