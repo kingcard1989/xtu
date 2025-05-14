@@ -5,6 +5,8 @@
 
 # XTU在线学习平台
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kingcard1989/xtu)
+
 ## 项目介绍
 这是一个基于Vue.js开发的在线学习平台前端项目，集成了在线考试、课程学习、问答交流等功能。
 
