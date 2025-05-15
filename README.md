@@ -1,8 +1,3 @@
-## 注：由于我们采用前后端分离的开发模式，直接上传后端源码可能会导致合并冲突，所以我们的后端人员各自开了仓库来提交后端代码。链接如下：
-- [https://github.com/cyfqhyjs/xtu-main-backend](https://github.com/cyfqhyjs/Student-Management-System)
-- https://github.com/waterbALLI/BE-xtu
-
-
 # XTU在线学习平台
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kingcard1989/xtu)
@@ -88,6 +83,12 @@ npm run build
 
 2. 启动开发服务器时如果端口被占用，可以修改`vue.config.js`中的端口配置
 
+
+## 注：由于我们采用前后端分离的开发模式，直接上传后端源码可能会导致合并冲突，所以我们的后端人员各自开了仓库来提交后端代码。链接如下：
+- [https://github.com/cyfqhyjs/xtu-main-backend](https://github.com/cyfqhyjs/Student-Management-System)
+- https://github.com/waterbALLI/BE-xtu
+
+
 ## 浏览器支持
 - Chrome (推荐)
 - Firefox
@@ -96,3 +97,4 @@ npm run build
 
 ## 许可证
 [MIT License](LICENSE)
+
